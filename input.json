@@ -1,0 +1,52 @@
+{
+    "Personal": {
+        "Name": "DeivaNayagan",
+        "Email": "deiva0209@gmail.com",
+        "Phone Number": "9307070450",
+        "Linkedin": "#",
+        "GitHub": "#"
+    },
+    "Education Details": {
+        "School1": {
+            "School Name": "Vellammal University",
+            "Description": "Graduated with 7.8/10 CGPA in BE-Mechanical Engineering"
+        }
+    },
+    "Experience": {
+        "Company Name": "Adani Power Pvt Ltd",
+        "Position": "Senior Engineer",
+        "Description": "April 2023-till now (Responsible for the safe operation of boilers, responsible for the safe completion of jobs with reduced downtime. Involved in Erection, commissioning, and operation of 1x180mw, Safety champion)"
+    },
+    "Skill Details": "Ms Office, Spoken Language: English, Tamil, Hindi, Soft Skills: Efficient Public Speaker with Good Presentation skills",
+    "Personal Projects": {
+        "Project1": {
+            "Name": "Vacuum clutch",
+            "Description": "Automobile Engineering",
+            "link": "#"
+        },
+        "Project2": {
+            "Name": "Erection and commissioning of HFO and LDO lines",
+            "Description": "Thermal Engineering, pitot tube, Heaters, Heat and mass transfer",
+            "link": "#"
+        }
+    },
+    "Others": {
+        "Trainings Completed": [
+            "CNC certified Engineer"
+        ],
+        "Certifications": [
+            {
+                "name": "Excel, mother of all business intelligence",
+                "link": "#"
+            },
+            {
+                "name": "PGDSBA, Great learning, UT Texas",
+                "link": "#"
+            }
+        ],
+        "Ongoing Learnings": [
+            "SQL beginners to advanced for data professionals",
+            "Power Bi data analytics for all levels"
+        ]
+    }
+}
